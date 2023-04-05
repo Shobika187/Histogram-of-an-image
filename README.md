@@ -23,8 +23,8 @@ Display the grayscale image.
 
 ## Program:
 
-# Developed By: P Shobika
-# Register Number: 212221230096
+### Developed By: P Shobika
+### Register Number: 212221230096
 
 
 # Write your code to find the histogram of gray scale image and color image channels.
