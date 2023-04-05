@@ -22,11 +22,11 @@ Equalize the grayscale image.
 Display the grayscale image.
 
 ## Program:
-```python
+
 # Developed By: P Shobika
 # Register Number: 212221230096
 
-```
+
 # Write your code to find the histogram of gray scale image and color image channels.
 ```
 import cv2
